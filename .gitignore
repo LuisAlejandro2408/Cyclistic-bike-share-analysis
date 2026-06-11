@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- CYCLISTIC DATA EXCLUSIONS ---
+# Ignorar cualquier carpeta local donde guardes los CSV pesados
+original_data_csv/
+data/
+*.csv
+*.zip
