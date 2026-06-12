@@ -41,7 +41,6 @@ data-driven recommendations to increase membership conversions.
     ├── proyect1.ipynb          ← Full analysis notebook
     ├── data/
     │   └── original_data_csv/  ← Raw monthly CSV files (May 2025 – Apr 2026)
-    ├── images/                 ← Exported visualizations
     └── README.md
 ---
 
