@@ -6,7 +6,7 @@ data-driven recommendations to increase membership conversions.
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Casual riders take 58% longer trips** on average (19 min vs 12 min)
 - **Members follow a commuter pattern** — bimodal peaks at 8AM and 5PM
